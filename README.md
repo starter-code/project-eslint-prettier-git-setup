@@ -2,7 +2,7 @@
 
 Good things to have:
 
-- NPM
+- NPM +. NVM
 - ESlint
 - Prettier
 - VSCode Workspace Settings
@@ -10,8 +10,25 @@ Good things to have:
 
 #### NPM Setup
 
+NPM
 ```
 npm init --yes
+```
+
+NVM
+```
+touch .nvmrc
+```
+
+example file contents:
+```
+8.9.0
+```
+
+use NVM
+```
+nvm install
+nvm use
 ```
 
 #### ESlint Setup
