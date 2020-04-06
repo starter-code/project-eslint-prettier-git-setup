@@ -2,15 +2,23 @@
 
 Good things to have:
 
+- NPM
 - ESlint
 - Prettier
 - VSCode Workspace Settings
 - Git + GitIgnore
 
+#### NPM Setup
+
+```
+npm init --yes
+```
+
 #### ESlint Setup
 
 ```
 npm i eslint
+eslint --init
 ```
 
 #### Prettier Setup
