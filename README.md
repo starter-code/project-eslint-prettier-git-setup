@@ -41,7 +41,7 @@ eslint --init
 #### Prettier Setup
 
 ```
-touch .pretterrc
+touch .prettierrc
 ```
 
 settings:
